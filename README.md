@@ -1,4 +1,4 @@
-Digital portfolio for Ivy He and Juno Kim, made using React and Next.js.
+Digital portfolio for Ivy He and Juno Kim, to get our 996 jobs.
 
 Stack:
 - React
