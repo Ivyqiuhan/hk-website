@@ -1,5 +1,4 @@
-# kim-he-website
-Digital portfolio made using React and Next.js
+Digital portfolio for Ivy He and Juno Kim, made using React and Next.js.
 
 To begin, please read:
 
